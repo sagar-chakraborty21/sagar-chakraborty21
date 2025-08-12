@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Chakraborty</h1>
 <h3 align="center">Passionate Web Developer from India Interested in UI design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-chakraborty21&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-chakraborty21" /> </p>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+frontend+developer+from+India!!;Interested+in+UI+design+!;&center=true&width=500&height=50"></a>
+</p>
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **sagarchakraborty57@gmail.com**
