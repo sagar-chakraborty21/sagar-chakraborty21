@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web Developer from India Interested in UI design</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+frontend+developer+from+India!!;Interested+in+UI+design+!;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer+from+India!!;Interested+in+UI+design+!;&center=true&width=500&height=50"></a>
 </p>
 - 🌱 I’m currently learning **Angular**
 
