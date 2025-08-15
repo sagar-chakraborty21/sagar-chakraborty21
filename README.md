@@ -12,8 +12,8 @@
 
 📫 How to reach me **sagarchakraborty57@gmail.com**
 
-💡 **Bridging ideas and algorithms** 
-🚀 **Always learning, always building**
+**💡** **Bridging ideas and algorithms** 
+**🚀** **Always learning, always building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
