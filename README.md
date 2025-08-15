@@ -6,14 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-chakraborty21&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-chakraborty21" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **HTML - CSS - JS**
+💬 Ask me about **HTML - CSS - JS**
 
-- 📫 How to reach me **sagarchakraborty57@gmail.com**
+📫 How to reach me **sagarchakraborty57@gmail.com**
 
-- 💡 Bridging ideas and algorithms **
-- 🚀 Always learning, always building**
+💡 **Bridging ideas and algorithms** 
+🚀 **Always learning, always building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
