@@ -12,9 +12,9 @@
 
 📫 How to reach me **sagarchakraborty57@gmail.com**
 
-**💡** **Bridging ideas and algorithms** 
+💡 **Bridging Ideas and Algorithms** 
 <br>
-**🚀** **Always learning, always building**
+🚀 **Always learning, Always building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
