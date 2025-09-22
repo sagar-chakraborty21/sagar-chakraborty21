@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sagar Chakraborty</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer+from+India!!;Interested+in+UI/UX+design+!;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer+from+India!!;Interested+in+Backend+Development+!;&center=true&width=500&height=50"></a>
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-chakraborty21&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-chakraborty21" /> </p>
 
-🌱 I’m currently learning **Angular**
+🔭 I’m currently working on **Job Portal platform**
+
+🌱 I’m currently learning **MERN Stack**
 
 💬 Ask me about **HTML - CSS - JS**
 
 📫 How to reach me **sagarchakraborty57@gmail.com**
 
 💡 **Bridging Ideas and Algorithms** 
-<br>
+
 🚀 **Always learning, Always building**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
